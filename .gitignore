@@ -1,0 +1,10 @@
+.vscode/
+.venv/
+**/__pycache__/
+**/.DS_Store
+**/*.pkl
+test/*
+data/solution/**
+
+web/my-app/node_modules/
+overleaf/
